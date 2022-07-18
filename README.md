@@ -1,2 +1,2 @@
 # go-unipgbot
-A telegram bot which scrapes unistudium to make easier to get links and codes of Microsoft Teams.
+A telegram bot that scrapes unistudium to make easier getting links and codes of Microsoft Teams rooms.
